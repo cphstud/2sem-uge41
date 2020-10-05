@@ -1,7 +1,11 @@
 # Uge41: 
-![](carrental.png)
 
 ![](bouncecoll.gif)
+
+and ..
+
+![](carrental.png)
+
 
 and ..
 
