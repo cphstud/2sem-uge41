@@ -1,0 +1,15 @@
+body {
+    font-family:"ChaletComprime", Helvetica, Arial;
+    font-size: 16px;
+}
+#bannerimage {
+    width: 100%;
+    background-image: url("fogrental.png");
+    height: 60px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    color: blue;
+
+}
